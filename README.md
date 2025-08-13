@@ -4,6 +4,8 @@ FuelMech is a full-stack service platform built with **Node.js** and **EJS** tha
 
 ---
 
+```
+
 ## 📂 Folder Structure
 
 FuelMech/
@@ -41,6 +43,8 @@ FuelMech/
 ├── app.js # Main Express app entry point
 ├── package.json
 └── README.md
+
+```
 
 ---
 
